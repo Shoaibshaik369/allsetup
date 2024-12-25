@@ -1,0 +1,72 @@
+
+
+.payment-methods {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    margin: 5rem 20rem;
+    overflow: scroll;
+    width: 50rem;;
+  }
+  
+  .tabs {
+    margin-bottom: 20px;
+    background-color: aliceblue;
+  }
+  
+  .tabs button {
+    margin-right: 10px;
+    margin-top: 2px;
+    padding: 8px 16px;
+    border: none;
+    background: #f0f0f0;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .tabs button.active {
+    background: #0078d7;
+    color: white;
+  }
+  
+  .paytm-form {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 900px;
+    width: 70%;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .save-button {
+    background: #0078d7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .save-button:hover {
+    background: #005bb5;
+  }
+  
+  .paytm-form a {
+    display: block;
+    margin-top: 10px;
+    color: #0078d7;
+  }
+  
